@@ -1,7 +1,5 @@
 ## Node.js Example Project
 
-This project is a template project for my [blog post](https://samloh84.github.io/blog/nodejs/express/application-development/2018/12/19/starting-a-nodejs-express-web-application.html) on writing a Node.js Express REST API.
- 
 
 ### Running the App
 Install all dependencies using `npm`.
