@@ -13,7 +13,7 @@
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "moment": "^2.23.0",
     "mongoose": "^5.4.0",
     "morgan": "^1.9.1",
